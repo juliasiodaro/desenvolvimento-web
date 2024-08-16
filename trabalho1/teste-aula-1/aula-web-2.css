@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(89, 217, 134);
+}
+h1 {
+    color : aliceblue;
+    background-color:blueviolet;
+    border: 1px solid black;
+}
+p {
+    color: blueviolet;
+}
+
