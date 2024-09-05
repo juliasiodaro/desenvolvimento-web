@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+body {
+    color:rgb(49, 49, 49);
+    text-align: center;
+    background-color: pink;
+    font-family: "Coming Soon", cursive;
+    font-weight: 470;
+    font-style: normal;
+
+}
+span {
+
+    color: red;
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+#div1 {
+background-color: rgb(164, 120, 175);
+height: 2vw;
+}
+
+#div2 {
+    background-color: rgb(110, 87, 129);
+    width: 70%;
+}
+
+#div3 {
+    background-color: rgb(164, 120, 175);
+}
+
+#ingredientes {
+    color: aliceblue;
+}
+
+#preparo {
+    color: aliceblue;
+}
+
+#titulo-div {
+    color: aliceblue;
+}
+
+img[src="natsuki-sprite2.png"] {
+    float: right;
+    margin-top: -200px;
+}
+
+#titulo {
+    font-size: 3em;
+}
