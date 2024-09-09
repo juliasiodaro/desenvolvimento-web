@@ -1,0 +1,29 @@
+let resultado;
+
+const preco = 40;
+
+if (preco < 40){
+  resultado = "livro é barato.";
+} else {
+  resultado = "livro é não é barato."
+}
+
+console.log(resultado)
+
+let x = 3;
+
+console.log(x === 3);
+console.log(x > 3);
+
+let meuObjeto = {
+  nome : 'Jeronimo Chiclana',
+  idade : 20
+}
+
+console.log(meuObjeto)
+
+const setinha =  (entrada) => {
+  return entrada + 33;
+}
+
+const setinha2 = (entrada) => entrada + 34;
